@@ -1,0 +1,7 @@
+x = 0
+y = 2
+name = str(input('Enter your name: '))
+number = int(input('Enter your number: '))
+while x < number:
+    print(name[x])
+    x +=1
