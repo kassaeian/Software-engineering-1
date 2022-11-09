@@ -1,0 +1,20 @@
+
+x = 0
+a1 = str(input('ورودی اول: '))
+a2 = str(input('ورودی دوم: '))
+a3 = str(input('ورودی سوم: '))
+a4 = str(input('ورودی چهارم: '))
+a5 = str(input('ورودی پنجم: '))
+b = str(input('مقدار String را وارد نمایید: '))
+
+tuple = ( a1, a2, a3, a4, a5)
+if b in tuple :
+    print(tuple)
+else :
+    for i < 5 :
+
+    print("no")
+    i +=1
+
+    for name in ('John', 'Kate'):
+        print("Hello", name)
